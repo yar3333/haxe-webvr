@@ -1,0 +1,11 @@
+{
+  "name": "webvr",
+  "license": "BSD",
+  "tags": ["vr","3D", "js", "extern"],
+  "description": "Externs for WebVR. Conversion from typescript definition file using `refactor` haxe library. Features: original comments, mapping to haxe types.",
+  "contributors": ["yar3333"],
+  "releasenote": "Basic test passed.",
+  "version": "1.0.0",
+  "url": "https://bitbucket.org/yar3333/haxe-webvr",
+  "dependencies": {}
+}

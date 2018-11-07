@@ -1,0 +1,61 @@
+Promise => js.Promise
+RegExp => js.RegExp
+Error => js.Error
+
+ArrayBuffer => js.html.ArrayBuffer
+ArrayBufferView => js.html.ArrayBufferView
+Uint8Array => js.html.Uint8Array
+Int32Array => js.html.Int32Array
+Uint32Array => js.html.Uint32Array
+Uint16Array => js.html.Uint16Array
+Float32Array => js.html.Float32Array
+Blob => js.html.Blob
+
+XMLHttpRequest => js.html.XMLHttpRequest
+File => js.html.File
+Worker => js.html.Worker
+MediaStreamConstraints => js.html.MediaStreamConstraints
+
+IDBFactory => js.html.idb.Factory
+
+EventTarget => js.html.EventTarget
+EventInit => js.html.EventInit
+PointerEvent => js.html.PointerEvent
+PointerEventInit => js.html.PointerEventInit
+KeyboardEvent => js.html.KeyboardEvent
+GamepadButton => js.html.GamepadButton
+Event => js.html.Event
+MouseWheelEvent => js.html.WheelEvent
+DeviceOrientationEvent => js.html.DeviceOrientationEvent
+ProgressEvent => js.html.ProgressEvent
+FocusEvent => js.html.FocusEvent
+
+Window => js.html.Window
+HTMLElement => js.html.Element
+HTMLImageElement => js.html.ImageElement
+ImageData => js.html.ImageData
+HTMLCanvasElement => js.html.CanvasElement
+HTMLVideoElement => js.html.VideoElement
+HTMLButtonElement => js.html.ButtonElement
+
+AudioContext => js.html.audio.AudioContext
+AudioBufferSourceNode => js.html.audio.AudioBufferSourceNode
+GainNode => js.html.audio.GainNode
+PannerNode => js.html.audio.PannerNode
+AudioBuffer => js.html.audio.AudioBuffer
+AudioNode => js.html.audio.AudioNode
+
+WebGLRenderingContext => js.html.webgl.RenderingContext
+WebGLFramebuffer => js.html.webgl.Framebuffer
+WebGLRenderbuffer => js.html.webgl.Renderbuffer
+WebGLTexture => js.html.webgl.Texture
+WebGLContextEvent => js.html.webgl.ContextEvent
+WEBGL_compressed_texture_s3tc => js.html.webgl.ExtensionCompressedTextureS3TC
+EXT_texture_filter_anisotropic => js.html.webgl.ExtensionTextureFilterAnisotropic
+WebGLContextAttributes => js.html.webgl.ContextAttributes
+
+float => Float
+double => Float
+int => Int
+
+*i => Int if Float
